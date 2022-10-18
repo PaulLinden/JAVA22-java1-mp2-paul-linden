@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 import customer.Cart;
 import discount.Discount;
-//import discount.Discount;
 import items.Groceries;
 
 public class Main {
