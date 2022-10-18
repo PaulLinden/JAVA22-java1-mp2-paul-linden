@@ -29,6 +29,8 @@ public class Main {
 					"1." + choklad.getItems() + " " + choklad.getPrice() + "kr." + "Antal: " + choklad.getAmount());
 			System.out.println("2." + soda.getItems() + " " + soda.getPrice() + "kr." + "Antal: " + soda.getAmount());
 			System.out.println("3." + olw.getItems() + " " + olw.getPrice() + "kr." + "Antal: " + olw.getAmount());
+			System.out.println();
+			System.out.println("4.Avsluta");
 			System.out.println("________________________________________________________");
 
 			System.out
