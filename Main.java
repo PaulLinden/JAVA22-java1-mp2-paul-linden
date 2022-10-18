@@ -33,7 +33,7 @@ public class Main {
 			System.out.println("________________________________________________________");
 
 			System.out
-					.println("Antal varot: " + customerOne.getNumberOfItems() + ". Kostnad: " + customerOne.getTotal());
+					.println("Antal varor: " + customerOne.getNumberOfItems() + ". Kostnad: " + customerOne.getTotal());
 
 			Scanner customer = new Scanner(System.in);
 
